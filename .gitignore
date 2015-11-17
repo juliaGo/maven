@@ -1,2 +1,3 @@
 
-/target/
+target/**
+#ignoriert den Ordner target und alle Unterordner/Dateien
